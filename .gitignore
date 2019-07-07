@@ -26,4 +26,4 @@ pom.xml
 /nbproject
 /nb-build
 .pydevproject
-__pycache__
+__pycache__.DS_Store
